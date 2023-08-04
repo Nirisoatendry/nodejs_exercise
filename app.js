@@ -11,4 +11,5 @@ app.use("/planets", planets); //endpoint planet to see the list of planets
 
 app.listen(port, () => console.log(`Server is running in ${port}`));
 
-//yarn start is the command to launch the project
+
+

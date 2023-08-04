@@ -1,3 +1,5 @@
+## yarn start is the command to launch the project. Before lanching the project , I invite you  to install the nodes_modules with the command npm install into the project 
+
 # nodejs_exercise
 # node-exercise
 A little exercise using a Star Wars API [https://swapi.co/](https://swapi.co/)
