@@ -6,7 +6,9 @@ const port = 3000;
 const people = require("./routes/people.router");
 const planets = require("./routes/planets.router");
 
-app.use("/people", people); //endpoint people
-app.use("/planets", planets); //endpoint planet
+app.use("/people", people); //endpoint people to see the list of people
+app.use("/planets", planets); //endpoint planet to see the list of planets
 
 app.listen(port, () => console.log(`Server is running in ${port}`));
+
+//yarn start is the command to launch the project
