@@ -1,0 +1,27 @@
+{
+  "name": "nodejs-exercise",
+  "version": "1.0.0",
+  "description": "A little exercise using a Star Wars API [https://swapi.co/](https://swapi.co/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/currenttech/nodejs-exercise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/currenttech/nodejs-exercise/issues"
+  },
+  "homepage": "https://github.com/currenttech/nodejs-exercise#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
